@@ -1,0 +1,102 @@
+[
+    {
+      "Name": "John Smith",
+      "Subject": "Mathematics",
+      "Experience": 10,
+      "Course Name": "Algebra Essentials",
+      "Image": "John Smith.jpg"
+      
+    },
+    {
+      "Name": "Alice Johnson",
+      "Subject": "Physics",
+      "Experience": 8,
+      "Course Name": "Mechanics and Waves",
+      "Image": "Alice Johnson.jpg"
+    },
+    {
+      "Name": "Michael Brown",
+      "Subject": "Chemistry",
+      "Experience": 12,
+      "Course Name": "Organic Chemistry Basics",
+      "Image": "Michael Brown.jpg"
+    },
+    {
+      "Name": "Emily Davis",
+      "Subject": "Biology",
+      "Experience": 6,
+      "Course Name": "Human Anatomy",
+      "Image": "Emily Davis.jpg"
+    },
+    {
+      "Name": "David Wilson",
+      "Subject": "Computer Science",
+      "Experience": 7,
+      "Course Name": "Python Programming",
+      "Image": "David Wilson.jpg"
+    },
+    {
+      "Name": "Sarah Miller",
+      "Subject": "English",
+      "Experience": 9,
+      "Course Name": "Creative Writing",
+      "Image": "Sarah Miller.jpg"
+    },
+    {
+      "Name": "Chris Taylor",
+      "Subject": "History",
+      "Experience": 11,
+      "Course Name": "World History Overview",
+      "Image": "Chris Taylor.jpg"
+    },
+    {
+      "Name": "Laura Martinez",
+      "Subject": "Economics",
+      "Experience": 5,
+      "Course Name": "Microeconomics Principles",
+      "Image": "Laura Martinez.jpg"
+    },
+    {
+      "Name": "James Anderson",
+      "Subject": "Geography",
+      "Experience": 10,
+      "Course Name": "Physical Geography",
+      "Image": "James Anderson.jpg"
+    },
+    {
+      "Name": "Megan Thomas",
+      "Subject": "Political Science",
+      "Experience": 7,
+      "Course Name": "Introduction to Politics",
+      "Image": "Megan Thomas.jpg"
+    },
+    {
+      "Name": "Robert Jackson",
+      "Subject": "Mathematics",
+      "Experience": 13,
+      "Course Name": "Advanced Calculus",
+      "Image": "Robert Jackson.jpg"
+    },
+    {
+      "Name": "Jennifer White",
+      "Subject": "Physics",
+      "Experience": 9,
+      "Course Name": "Thermodynamics",
+      "Image": "Jennifer White.jpg"
+    },
+    {
+      "Name": "William Harris",
+      "Subject": "Chemistry",
+      "Experience": 8,
+      "Course Name": "Inorganic Chemistry",
+      "Image": "William Harris.jpg"
+    },
+    {
+      "Name": "Olivia Lewis",
+      "Subject": "Biology",
+      "Experience": 6,
+      "Course Name": "Genetics and Evolution",
+      "Image": "Olivia Lewis.jpg"
+    }
+  ]
+  
