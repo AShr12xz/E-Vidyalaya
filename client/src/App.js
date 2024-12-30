@@ -8,7 +8,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import { motion } from 'framer-motion';
-// import Teachers from './components/Teachers';
 
 function App() {
   return (
